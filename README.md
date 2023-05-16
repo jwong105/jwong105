@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey, I'm Jenn! 👋
+
+I'm currently in my 4th year at the University of British Columbia pursuing a Bachelor of Computer Science. This is actually my second undergraduate degree, the first one being in Biochemistry 😄
+
+🌱 I’m currently learning:
+- web development (including HTML, CSS and Javascript)
+- the MERN stack (MongoDB, Express, React, Node.js)
+
+
+
 
 <!--
 **jwong105/jwong105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

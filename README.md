@@ -1,9 +1,11 @@
 ### Hey, I'm Jenn! 👋
 
-I'm currently in my 4th year at the University of British Columbia pursuing a Bachelor of Computer Science. This is actually my second undergraduate degree, the first one being in Biochemistry 😄
+I'm currently in my 4th year at the University of British Columbia pursuing a Bachelor of Computer Science. This is actually my second undergraduate degree... the first being in Biochemistry. Watch me be in school forever 😄
 
 🌱 I’m currently learning:
 - the MERN stack (MongoDB, Express, React, Node.js)
+
+⚡ Fun fact: I love ✨puzzles✨ so much. Like actually. I just need a good movie playlist and my puzzles and you'll never see me again. All my money goes towards puzzles and buying frames for my puzzles :)
 
 
 <!--

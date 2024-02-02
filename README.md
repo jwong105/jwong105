@@ -5,7 +5,8 @@ I'm currently in my 4th year at the University of British Columbia pursuing a Ba
 🌱 I’m currently learning:
 - the MERN stack (MongoDB, Express, React, Node.js)
 
-⚡ Fun fact: I love ✨puzzles✨ so much. Like actually. I just need a good movie playlist and my puzzles and you'll never see me again. All my money goes towards puzzles and buying frames for my puzzles :)
+⚡ Fun fact: 
+- ✨I love puzzles✨ So much. Like actually. I just need a good movie playlist and my puzzles and you'll never see me again. All my money goes towards puzzles and buying frames for my puzzles :)
 
 
 <!--

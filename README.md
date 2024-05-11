@@ -2,10 +2,6 @@
 
 I'm currently in my 4th year at the University of British Columbia pursuing a Bachelor of Computer Science!
 
-Fun fact: 
-- ✨I'm obsessed with puzzles✨ Like actually. I have stacks of puzzle boxes. I just need a good movie playlist and my puzzles and you'll never see me again. All my money goes towards puzzles and buying frames for my puzzles :)
-
-
 <!--
 **jwong105/jwong105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
